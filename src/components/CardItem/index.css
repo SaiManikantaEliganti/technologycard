@@ -1,0 +1,38 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+.card-container-2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-title {
+  color: #171f46;
+  font-size: 28px;
+  font-family: roboto;
+  text-align: left;
+}
+.card-description {
+  color: #64748b;
+  font-size: 20px;
+  font-family: roboto;
+  text-align: left;
+}
+.img {
+  height: 75px;
+  width: 75px;
+  text-align: right;
+}
